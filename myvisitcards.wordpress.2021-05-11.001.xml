@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress.com" created="2021-05-11 21:52"-->
+<!-- generator="WordPress.com" created="2021-05-11 22:01"-->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>MyVisitCards</title>
 	<link>https://myvisitcardscom.wordpress.com</link>
 	<description>Добро пожаловать снова!</description>
-	<pubDate>Tue, 11 May 2021 21:52:15 +0000</pubDate>
+	<pubDate>Tue, 11 May 2021 22:01:50 +0000</pubDate>
 	<language></language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -593,7 +593,7 @@
 	</item>
 	<item>
 		<title>Расскажите о себе (пример публикации)</title>
-		<link>https://myvisitcardscom.wordpress.com/2021/05/11/example-post-3/</link>
+		<link>https://myvisitcardscom.wordpress.com/?p=10</link>
 		<pubDate>Tue, 11 May 2021 12:54:35 +0000</pubDate>
 		<dc:creator>fbgh111</dc:creator>
 		<guid isPermaLink="false">https://myvisitcardscom.wordpress.com/?p=10</guid>
@@ -643,18 +643,14 @@
 		<wp:post_date_gmt>2021-05-11 12:54:35</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>example-post-3</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_name>example-post-3__trashed</wp:post_name>
+		<wp:status>trash</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type>post</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="%d0%b1%d0%b5%d0%b7-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b8"><![CDATA[Без рубрики]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_headstart_post</wp:meta_key>
-			<wp:meta_value><![CDATA[_hs_extra]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>sharing_disabled</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
@@ -668,17 +664,25 @@
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpas_skip_all_services</wp:meta_key>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_publicize_pending</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1620770425]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[example-post-3]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Расскажите о себе (пример публикации)</title>
-		<link>https://myvisitcardscom.wordpress.com/2021/05/11/example-post-2/</link>
+		<link>https://myvisitcardscom.wordpress.com/?p=11</link>
 		<pubDate>Tue, 11 May 2021 12:54:34 +0000</pubDate>
 		<dc:creator>fbgh111</dc:creator>
 		<guid isPermaLink="false">https://myvisitcardscom.wordpress.com/?p=11</guid>
@@ -728,8 +732,8 @@
 		<wp:post_date_gmt>2021-05-11 12:54:34</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>example-post-2</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_name>example-post-2__trashed</wp:post_name>
+		<wp:status>trash</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type>post</wp:post_type>
@@ -737,8 +741,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="%d0%b1%d0%b5%d0%b7-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b8"><![CDATA[Без рубрики]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_headstart_post</wp:meta_key>
-			<wp:meta_value><![CDATA[_hs_extra]]></wp:meta_value>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>sharing_disabled</wp:meta_key>
@@ -753,17 +757,21 @@
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpas_skip_all_services</wp:meta_key>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_publicize_pending</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1620770427]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[example-post-2]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Расскажите о себе (пример публикации)</title>
-		<link>https://myvisitcardscom.wordpress.com/2021/05/11/example-post/</link>
+		<link>https://myvisitcardscom.wordpress.com/?p=12</link>
 		<pubDate>Tue, 11 May 2021 12:54:33 +0000</pubDate>
 		<dc:creator>fbgh111</dc:creator>
 		<guid isPermaLink="false">https://myvisitcardscom.wordpress.com/?p=12</guid>
@@ -813,8 +821,8 @@
 		<wp:post_date_gmt>2021-05-11 12:54:33</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>example-post</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_name>example-post__trashed</wp:post_name>
+		<wp:status>trash</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type>post</wp:post_type>
@@ -822,8 +830,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="%d0%b1%d0%b5%d0%b7-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b8"><![CDATA[Без рубрики]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_headstart_post</wp:meta_key>
-			<wp:meta_value><![CDATA[_hs_extra]]></wp:meta_value>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>sharing_disabled</wp:meta_key>
@@ -838,12 +846,16 @@
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpas_skip_all_services</wp:meta_key>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_publicize_pending</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1620770428]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[example-post]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1942,192 +1954,6 @@ Array
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>yzbrvlc-8a</title>
-		<link>https://myvisitcardscom.wordpress.com/yzbrvlc-8a/</link>
-		<pubDate>Tue, 11 May 2021 19:05:15 +0000</pubDate>
-		<dc:creator>fbgh111</dc:creator>
-		<guid isPermaLink="false">http://myvisitcardscom.files.wordpress.com/2021/05/yzbrvlc-8a.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>114</wp:post_id>
-		<wp:post_date>2021-05-11 22:05:15</wp:post_date>
-		<wp:post_date_gmt>2021-05-11 19:05:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>yzbrvlc-8a</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://myvisitcardscom.files.wordpress.com/2021/05/yzbrvlc-8a.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/767/192948527/files/2021/05/yzbrvlc-8a.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:480;s:6:"height";i:480;s:4:"file";s:87:"/home/wpcom/public_html/wp-content/blogs.dir/767/192948527/files/2021/05/yzbrvlc-8a.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:33607;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>1-17680-128-2</title>
-		<link>https://myvisitcardscom.wordpress.com/1-17680-128-2/</link>
-		<pubDate>Tue, 11 May 2021 19:05:20 +0000</pubDate>
-		<dc:creator>fbgh111</dc:creator>
-		<guid isPermaLink="false">http://myvisitcardscom.files.wordpress.com/2021/05/1-17680-128-2.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>115</wp:post_id>
-		<wp:post_date>2021-05-11 22:05:20</wp:post_date>
-		<wp:post_date_gmt>2021-05-11 19:05:20</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>1-17680-128-2</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://myvisitcardscom.files.wordpress.com/2021/05/1-17680-128-2.png</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/767/192948527/files/2021/05/1-17680-128-2.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:90:"/home/wpcom/public_html/wp-content/blogs.dir/767/192948527/files/2021/05/1-17680-128-2.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:5268;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>1-17680-128</title>
-		<link>https://myvisitcardscom.wordpress.com/1-17680-128/</link>
-		<pubDate>Tue, 11 May 2021 19:05:23 +0000</pubDate>
-		<dc:creator>fbgh111</dc:creator>
-		<guid isPermaLink="false">http://myvisitcardscom.files.wordpress.com/2021/05/1-17680-128.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>116</wp:post_id>
-		<wp:post_date>2021-05-11 22:05:23</wp:post_date>
-		<wp:post_date_gmt>2021-05-11 19:05:23</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>1-17680-128</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://myvisitcardscom.files.wordpress.com/2021/05/1-17680-128.png</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/767/192948527/files/2021/05/1-17680-128.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:88:"/home/wpcom/public_html/wp-content/blogs.dir/767/192948527/files/2021/05/1-17680-128.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:5218;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>18f9d786-f2d5-427b-b1df-2fb4a1df9428</title>
-		<link>https://myvisitcardscom.wordpress.com/18f9d786-f2d5-427b-b1df-2fb4a1df9428/</link>
-		<pubDate>Tue, 11 May 2021 19:05:28 +0000</pubDate>
-		<dc:creator>fbgh111</dc:creator>
-		<guid isPermaLink="false">http://myvisitcardscom.files.wordpress.com/2021/05/18f9d786-f2d5-427b-b1df-2fb4a1df9428.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>117</wp:post_id>
-		<wp:post_date>2021-05-11 22:05:28</wp:post_date>
-		<wp:post_date_gmt>2021-05-11 19:05:28</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>18f9d786-f2d5-427b-b1df-2fb4a1df9428</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://myvisitcardscom.files.wordpress.com/2021/05/18f9d786-f2d5-427b-b1df-2fb4a1df9428.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/767/192948527/files/2021/05/18f9d786-f2d5-427b-b1df-2fb4a1df9428.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1918;s:6:"height";i:791;s:4:"file";s:113:"/home/wpcom/public_html/wp-content/blogs.dir/767/192948527/files/2021/05/18f9d786-f2d5-427b-b1df-2fb4a1df9428.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:342586;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>987_li</title>
-		<link>https://myvisitcardscom.wordpress.com/987_li/</link>
-		<pubDate>Tue, 11 May 2021 19:05:35 +0000</pubDate>
-		<dc:creator>fbgh111</dc:creator>
-		<guid isPermaLink="false">http://myvisitcardscom.files.wordpress.com/2021/05/987_li.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>118</wp:post_id>
-		<wp:post_date>2021-05-11 22:05:35</wp:post_date>
-		<wp:post_date_gmt>2021-05-11 19:05:35</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>987_li</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://myvisitcardscom.files.wordpress.com/2021/05/987_li.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/767/192948527/files/2021/05/987_li.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:83:"/home/wpcom/public_html/wp-content/blogs.dir/767/192948527/files/2021/05/987_li.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1585789974";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:11380;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>3akobsb2j-q</title>
-		<link>https://myvisitcardscom.wordpress.com/3akobsb2j-q/</link>
-		<pubDate>Tue, 11 May 2021 19:05:47 +0000</pubDate>
-		<dc:creator>fbgh111</dc:creator>
-		<guid isPermaLink="false">http://myvisitcardscom.files.wordpress.com/2021/05/3akobsb2j-q.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>119</wp:post_id>
-		<wp:post_date>2021-05-11 22:05:47</wp:post_date>
-		<wp:post_date_gmt>2021-05-11 19:05:47</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>3akobsb2j-q</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://myvisitcardscom.files.wordpress.com/2021/05/3akobsb2j-q.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/767/192948527/files/2021/05/3akobsb2j-q.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:607;s:6:"height";i:1080;s:4:"file";s:88:"/home/wpcom/public_html/wp-content/blogs.dir/767/192948527/files/2021/05/3akobsb2j-q.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:91721;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>square_card_mockup_007</title>
 		<link>https://myvisitcardscom.wordpress.com/square_card_mockup_007/</link>
 		<pubDate>Tue, 11 May 2021 20:36:03 +0000</pubDate>
@@ -2187,69 +2013,6 @@ Array
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:86:"/home/wpcom/public_html/wp-content/blogs.dir/767/192948527/files/2021/05/d0b2d0b83.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:55987;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Визитки</title>
-		<link>https://myvisitcardscom.wordpress.com/2021/05/11/21/</link>
-		<pubDate>Tue, 11 May 2021 12:59:40 +0000</pubDate>
-		<dc:creator>fbgh111</dc:creator>
-		<guid isPermaLink="false">https://myvisitcardscom.wordpress.com/2021/05/11/21/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>21</wp:post_id>
-		<wp:post_date>2021-05-11 23:52:24</wp:post_date>
-		<wp:post_date_gmt>2021-05-11 12:59:40</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>21</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_publicize_pending</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[7]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_content</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2436,6 +2199,69 @@ Array
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:4000;s:6:"height";i:3000;s:4:"file";s:83:"/home/wpcom/public_html/wp-content/blogs.dir/767/192948527/files/2021/05/z002-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:12491788;}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Визитки</title>
+		<link>https://myvisitcardscom.wordpress.com/2021/05/11/21/</link>
+		<pubDate>Tue, 11 May 2021 12:59:40 +0000</pubDate>
+		<dc:creator>fbgh111</dc:creator>
+		<guid isPermaLink="false">https://myvisitcardscom.wordpress.com/2021/05/11/21/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>21</wp:post_id>
+		<wp:post_date>2021-05-11 23:52:24</wp:post_date>
+		<wp:post_date_gmt>2021-05-11 12:59:40</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>21</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_content</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
